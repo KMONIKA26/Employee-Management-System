@@ -28,7 +28,7 @@ This project is a simple web application for managing employee data. It allows u
 
 ## How to Use
 
-1. Clone the repository: git clone ``
+1. Clone the repository: git clone `https://github.com/KMONIKA26/Employee-Management-System`
 2. Open the index.html file in your web browser.
 3. Use the dropdown menus to filter and sort employees.
 4. Click the pagination controls to navigate through the employee list.
